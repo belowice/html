@@ -1,3 +1,95 @@
 # Basic HTML web pages
 
 Repository to hold public-facing HTML
+
+
+<h1>Resources For Immunizations and Tuberculosis Testing In Solano County</h1>
+
+<div style="text-align: center">
+    <h3 id="#top">Resources by City</h3>
+    <a href="#dixon">Dixon</a> | <a href="#fairfield">Fairfield</a> | <a href="#vacaville">Vacaville</a> | <a href="#vallejo">Vallejo</a>
+</div>
+
+<div style="text-align: center">
+<h2 id="dixon">Dixon</h2>
+<a href="#top"><em>Back to top</em></a>
+    <p>Dixon Family Practice<br />
+        131 West A St., Suite 1<br />
+        Dixon, CA 95620<br />
+        (707) 635-1600<br />
+        Monday – Friday 8:00 AM – 6:00 PM<br />
+        Every other Saturday 8:00 AM – 4:00 PM<br />
+    </p>
+</div>
+
+<ul>
+    <li>Immunizations for children are free for Dixon Family Practice clients.</li>
+    <li>New clients need a physical check-up with a doctor before receiving free immunizations (physical check-ups may be charged a sliding fee).</li>
+    <li>Tuberculosis Skin Testing is $5.00 for Community Medical Center clients and $30 for new clients.</li>
+    <li>Please call for an appointment—walk-in appointments are not available.</li>
+</ul>
+
+<div style="text-align: center">
+<h2 id="fairfield">Fairfield</h2>
+<a href="#top"><em>Back to top</em></a>
+    <p>Family Health Services<br />
+        2201 Courage Dr.<br />
+        Fairfield, CA 94533<br />
+        (707) 784-2010<br />
+        Monday – Friday 8:00 AM – 5:00 PM<br />
+        Some evening appointments are available<br />
+        Saturday 9:00 AM – 3:00 PM walk-in appointment accepted
+    </p>
+</div>
+
+<ul>
+    <li>Immunizations are free to clients of Family Health Services (FHS) with Partnership or Healthy Families. (Fees may apply to other clients).</li>
+    <li>If you choose FHS as your primary care provider, immunizations will be given at the time of a physical/check-up.</li>
+    <li>New clients must be seen for a physical first, by appointment only, and the price of a physical is based on a sliding scale.</li>
+    <li>Tuberculosis Skin Testing is $23 for non-clients of FHS.</li>
+    <li>Walk-in appointments are available Monday, Tuesday, and Wednesday 9:00 AM to 11:00 AM and 1:30 PM to 3:30 PM.</li>
+    <li>Children who are assigned to FHS may receive Tuberculosis Skin Testing Monday through Friday 9:00 AM – 11:00 AM and 1:30 PM -3:30 PM.</li>
+</ul>
+
+
+<div style="text-align:center">
+<h2 id="vacaville">Vacaville</h2>
+<a href="#top"><em>Back to top</em></a>
+    <p>Community Medical Clinic (Vacaville)<br />
+        600 Nut Tree Rd., #310<br />
+        Vacaville, CA 95687<br />
+        (707) 359-1800<br />
+        Press #6 for Vacaville clinic<br />
+        Monday – Friday 8:00 AM – 6:00 PM<br />
+        And every other Saturday 8:00 AM – 4:30 PM
+    </p>
+</div>
+
+<ul>
+    <li>Immunizations for children are free for VFC qualified Community Medical Center clients.</li>
+    <li>New clients need a physical check-up with a doctor before receiving immunizations (physical check-ups may be charged an office visit fee based on a family size and income sliding scale).</li>
+    <li>Tuberculosis Skin Testing is $5.00 for Community Medical Center clients</li>
+    <li>Please call for an appointment— same day appointments may be available.</li>
+</ul>
+
+<div style="text-align: center">
+<h2 id="vallejo">Vallejo</h2>
+<a href="#top"><em>Back to top</em></a>
+    <p>Vallejo Family Health Services<br />
+        365 Tuolumne St<br />
+        Vallejo, CA 94590<br />
+        (707) 553-5509<br />
+        Monday – Friday 8:00 AM – 5:00 PM<br />
+        Some evening appointments are available<br />
+        Saturday 9:00 AM – 3:00 PM walk-in appointment accepted
+    </p>
+</div>
+
+<ul>
+    <li>Immunizations are free to clients of Family Health Services (FHS) with Partnership or Healthy Families. (Fees may apply to other clients).</li>
+    <li>If you choose FHS as your primary care provider, immunizations will be given at the time of a physical/check-up.</li>
+    <li>New clients must be seen for a physical first, by appointment only, and the price of a physical is based on a sliding scale.</li>
+    <li>Tuberculosis Skin Testing is $23 for non-clients of FHS.</li>
+    <li>Walk-in appointments are available Monday, Tuesday, and Wednesday 9:00 AM to 11:00 AM and 1:30 PM to 3:30 PM.</li>
+    <li>Children who are assigned to FHS may receive Tuberculoisis Skin Testing Monday through Friday 9:00 AM – 11:00 AM and 1:30 PM -3:30 PM.</li>
+</ul>
